@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=2000&pause=1000&color=F7F7F7&background=202830&repeat=false&random=true&width=435&lines=Hey%2C+i'm+Yago!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=6000&pause=1000&color=F7F7F7&background=202830&repeat=false&random=true&width=435&lines=Hey%2C+i'm+Yago!)](https://git.io/typing-svg)
 
 Apple Platforms Developer
 
