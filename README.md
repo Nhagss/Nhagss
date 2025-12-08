@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=3000&pause=1000&color=F7F7F7&background=202830&multiline=true&repeat=false&random=true&width=435&height=35&lines=Hey%2C+i'm+Yago!)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=300&size=12&duration=3000&pause=1000&color=F7F7F7&background=202830&multiline=true&repeat=false&random=true&height=25&lines=%7CApple+Platforms+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=3000&pause=1000&color=F7F7F7&background=202830&multiline=true&repeat=false&random=true&width=435&height=35&lines=Hey%2C+i'm+Yago!)](https://git.io/typing-svg) 
+<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=300&size=12&duration=4000&pause=1000&color=F7F7F7&background=202830&multiline=true&repeat=false&random=true&height=25&lines=%7CApple+Platforms+Developer)](https://git.io/typing-svg)
 ---
 
 ### Technologies
